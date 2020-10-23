@@ -99,6 +99,7 @@ function yoda(chaine){
     return chaine.split(" ").reverse().join(" ");
 }
 
+/*
 function testExo(){
     const propAccessObj1 = {
         animal: {
@@ -140,3 +141,5 @@ function testExo(){
 }
 
 testExo();
+
+*/
